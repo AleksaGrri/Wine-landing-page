@@ -1,0 +1,480 @@
+@media (max-width:1300px){
+    .card-slide img{
+        width: 300px;
+    }
+
+    .picture-advantages img{
+        width: 700px;
+        height: 100%;
+    }
+
+    .info-advantages{
+        margin-top: 0;
+    }
+
+    .picture img{
+        width: 500px;
+        height: auto;
+    }
+}
+
+@media (max-width:1130px){
+    .zero .container{
+        width: 43%;
+    }
+
+    .intro p.descr{
+        width: 45%;
+    }
+
+    .picture-advantages img{
+        width: 450px;
+    }
+
+    .info-product h2{
+        margin-bottom: 100px;
+    }
+
+    .subs-block{
+        width: 500px;
+    }
+
+    .column-link {
+        width: 170px;
+    }
+}
+
+@media (max-width:1050px){
+    .zero .container{
+        padding-top: 140px;
+    }
+
+    h1{
+        font-size: 60px;
+        line-height: 86px;
+    }
+
+    .title{
+        font-size: 16px;
+        line-height: 30px;
+        margin: 30px 0 40px;
+    }
+
+    .zero .bg{
+        height: 650px;
+    }
+
+    .quote-item q{
+        font-size: 16px;
+        line-height: 27px;
+    }
+
+    .publication-img img{
+        width: 80%;
+    }
+
+    .quote-item{
+        width: 270px;
+    }
+
+    h2{
+        font-size: 54px;
+        line-height: 72px;
+        width: 80%;
+    }
+
+    .card-slide img {
+        width: 235px;
+    }
+
+    h3{
+        font-size: 28px;
+        line-height: 40px;
+    }
+
+    p.descr{
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .card-slide{
+        max-width: 270px;
+    }
+
+    .slider {
+        margin-bottom: 35px;
+    }
+
+    .adv-title{
+        font-size: 28px;
+        line-height: 40px;
+    }
+
+    .adv-title.second-title{
+        font-size: 32px;
+        line-height: 40px;
+    }
+
+    .review q{
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .user-status{
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .picture{
+        width: 45%;
+    }
+
+    .picture img{
+        width: 100%;
+    }
+
+    .info-product h2 {
+        margin-bottom: 50px;
+    }
+
+    .subs-title{
+        font-size: 48px;
+        line-height: 70px;
+    }
+
+    .subs-subtitle{
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .footer-title{
+        font-size: 36px;
+        line-height: 60px;
+    }
+
+    .footer-subtitle{
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .input input{
+        font-size: 14px;
+    }
+
+    .column-link ul li {
+        margin-bottom: 15px;
+    }
+
+    .privacy-policy a{
+        font-size: 14px;
+        line-height: 20px;
+    }
+}
+
+@media (max-width: 900px){
+    .quote-item {
+        width: 240px;
+    }
+
+    .card-slide img {
+        width: 200px;
+    }
+
+    .card-slide {
+        max-width: 230px;
+    }
+
+    .shop-position .container{
+        padding-bottom: 60px;
+    }
+
+    .review-item{
+        width: 32%;
+    }
+
+    .subs-block {
+        width: 60%;
+    }
+
+    .footer-item{
+        flex-direction: column;
+    }
+
+    .main-links{
+        margin-top: 70px;
+    }
+}
+
+@media (max-width: 850px){
+    header.main{
+        display: none;
+    }
+
+    header.adaptive{
+        display: block;
+        background-color: #1919192e;
+        padding: 15px 0;
+    }
+
+    header.adaptive .container{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+@media (max-width: 760px){
+    h1 {
+        font-size: 50px;
+        line-height: 61px;
+    }
+
+    .title {
+        font-size: 14px;
+        line-height: 24px;
+        margin: 25px 0 30px;
+    }
+
+    .zero .bg {
+        height: 500px;
+    }
+
+    .quote-item q {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .quote .container, .review .container{
+        padding: 60px 0 60px;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 40px;
+    }
+
+    .quote {
+        margin-bottom: 0;
+    }
+
+    h2 {
+        font-size: 40px;
+        line-height: 52px;
+        width: 80%;
+    }
+
+    .card-slide.third{
+        display: none;
+    }
+
+    .card-slide {
+        max-width: 47%;
+    }
+
+    .subtitle{
+        padding-bottom: 40px;
+    }
+
+    .intro-info{
+        flex-direction: column;
+    }
+
+    .intro-info h2{
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .intro p.descr{
+        width: 100%;
+    }
+
+    .intro .container{
+        padding-bottom: 60px;
+    }
+
+    .advantages .container{
+        flex-direction: column;
+    }
+
+    p.adv-title:first-child{
+        margin-top: 0;
+    }
+
+    .picture-advantages img {
+        width: 100%;
+    }
+
+    .review .container{
+        padding: 0;
+    }
+
+    .review-item {
+        width: 44%;
+    }
+
+    .footer-title{
+        font-size: 32px;
+        line-height: 55px;
+    }
+
+    .privacy-policy{
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+
+    .zero .container {
+        width: 44%;
+        padding-top: 95px;
+    }
+
+    .slider .prev, .slider .next{
+        display: none;
+    }
+
+    .subs-title {
+        font-size: 38px;
+        line-height: 60px;
+    }
+}
+
+@media (max-width: 650px){
+    .bg{
+        flex-direction: column;
+        height: 450px;
+    }
+
+    .bg-picture{
+        width: 100%;
+        height: 15%;
+    }
+
+    .bg-color {
+        width: 100%;
+        height: 80%;
+    }
+
+    .zero .container {
+        width: 90%;
+        padding-top: 110px;
+        text-align: center;
+    }
+
+    .quote .container, .review .container{
+        gap: 25px;
+    }
+
+    .publication-img {
+        margin-top: 16px;
+    }
+
+    .about-product .container{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .picture {
+        width: 70%;
+    }
+
+    .info-product {
+        width: 100%;
+        text-align: center;
+        margin-top: 15px;
+    }
+
+    .info-product h2 {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .subs-block{
+        width: 100%;
+    }
+
+    .info-footer{
+        width: 100%;
+    }
+}
+
+@media (max-width: 520px){
+    .card-slide.second{
+        display: none;
+    }
+
+    .slide-content{
+        justify-content: center;
+    }
+
+    .card-slide {
+        max-width: 80%;
+    }
+
+    .subtitle{
+        margin-bottom: 30px;
+        padding-bottom: 0;
+    }
+
+    .review-item {
+        width: 50%;
+        padding: 25px 0 12px;
+    }
+}
+
+@media (max-width: 450px){
+    .main-links{
+        flex-wrap: wrap;
+        gap: 40px;
+    }
+
+    .column-link{
+        width: 40%;
+    }
+
+    h1 {
+        font-size: 42px;
+        line-height: 52px;
+    }
+
+    .quote .container{
+        gap: 35px;
+    }
+
+    h2 {
+        font-size: 30px;
+        line-height: 44px;
+        width: 100%;
+    }
+
+    .adv-title {
+        font-size: 22px;
+        line-height: 32px;
+    }
+
+    .adv-title.second-title {
+        font-size: 26px;
+        line-height: 35px;
+    }
+
+    .subs-title {
+        font-size: 30px;
+        line-height: 50px;
+    }
+}
+
+@media (max-width: 375px){
+    .column-link {
+        width: 50%;
+    }
+
+    .privacy-policy{
+        margin-top: 50px;
+    }
+}
+
+@media (max-width: 320px){
+    .menu__box{
+        width: 320px;
+    }
+
+    .subs-block{
+        padding: 20px 25px;
+    }
+}
